@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @trinv
 - 👀 I’m interested in DNS/DNSSEC Systems
-- 🌱 I’m currently learning Ansible/AWS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Contact to me via email: trinv.me@gmail.com
 
 <!---
 trinv/trinv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
